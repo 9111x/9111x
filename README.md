@@ -1,11 +1,7 @@
 ### Hey 👋, I'm [Benjamin!](https://github.com/PrudhviGNV)
 
 
-<a href="https://www.linkedin.com/in/prudhvignv/">
-  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/prudhvi_gnv/">
-  <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
 </a>
 <br />
  <a href="https://prudhvignv.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
